@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a modern recreation of the classic arcade game **Breakout** developed by **Ayaan Hashmi**. In this game, players control a paddle to bounce a ball and break all the bricks on the screen. The game features smooth controls and customizable levels to provide both nostalgia and a fresh gaming experience.
+This is a recreation of the classic arcade game **Breakout** developed by **Ayaan Hashmi**. In this game, players control a paddle to bounce a ball and break all the bricks on the screen. The game features smooth controls and customizable levels to provide both nostalgia and a fresh gaming experience.
 
 ## Dependencies
 
